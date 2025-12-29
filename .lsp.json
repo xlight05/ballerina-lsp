@@ -1,0 +1,22 @@
+{
+  "ballerina": {
+    "command": "bal",
+    "args": ["start-language-server"],
+    "extensionToLanguage": {
+      ".bal": "ballerina"
+    },
+    "transport": "stdio",
+    "maxRestarts": 3,
+    "initializationOptions": {
+      "enableSemanticHighlighting": true,
+      "enableBackgroundDriftCheck": false,
+      "enableInlayHints": false,
+      "supportBalaScheme": true,
+      "supportQuickPick": true,
+      "supportPositionalRenamePopup": true,
+      "enableLightWeightMode": false,
+      "enableIndexPackages": true,
+      "enableMemoryUsageMonitor": false
+    }
+  }
+}

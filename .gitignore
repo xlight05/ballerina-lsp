@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+.vscode/
+.idea/
+node_modules/
+.claude/
+test-project/
+vscode_tracelogs.log
+prompt.md
+test-plugin.sh
+TESTING.md

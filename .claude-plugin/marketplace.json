@@ -1,0 +1,15 @@
+{
+  "name": "ballerina-lsp-marketplace",
+  "owner": {
+    "name": "xlight05",
+    "url": "https://github.com/xlight05"
+  },
+  "plugins": [
+    {
+      "name": "ballerina-lsp",
+      "source": "./",
+      "description": "Language Server Protocol support for Ballerina language in Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}

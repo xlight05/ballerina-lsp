@@ -1,0 +1,20 @@
+{
+  "name": "ballerina-lsp",
+  "description": "Language Server Protocol support for Ballerina language in Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "WSO2",
+    "email": "ballerina@wso2.com"
+  },
+  "homepage": "https://ballerina.io",
+  "repository": "https://github.com/ballerina-platform/ballerina-lang",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ballerina",
+    "lsp",
+    "language-server",
+    "cloud-native",
+    "integration"
+  ],
+  "lspServers": "./.lsp.json"
+}
